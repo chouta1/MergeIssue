@@ -1,9 +1,8 @@
 public class Greet
 {
-
-public void greet()
+'public void greet()
 {
-System.out.println("Good afternoon");
+System.out.println("hello good morning");
 }
 
 }
